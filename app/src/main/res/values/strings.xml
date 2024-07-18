@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BankTransactions</string>
+    <string name="add_transactions">Add Transactions</string>
 </resources>
