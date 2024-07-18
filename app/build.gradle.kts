@@ -41,7 +41,7 @@ android {
 
 dependencies {
 
-    //dependencia de SQlite (Kotlin)
+    //dependencia de SQlite
     implementation("androidx.sqlite:sqlite-ktx:2.4.0")
 
     implementation("androidx.core:core-ktx:1.13.1")

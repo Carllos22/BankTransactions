@@ -2,4 +2,9 @@
 <resources>
     <string name="app_name">TransaccionesBancarias</string>
     <string name="add_transactions">Añadir movimientos</string>
+    <string name="date">Fecha</string>
+    <string name="description">Descripción</string>
+    <string name="amount">Cantidad</string>
+    <string name="type">Tipo</string>
+    <string name="delete">Eliminar</string>
 </resources>
